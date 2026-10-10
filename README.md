@@ -1,7 +1,7 @@
 <h1 align="center">Yami Renato</h1>
 
 <p align="center">
-  <b>Full Stack Dev</b> · <b>Tech Educator</b> · <b>Founder da 42 Bits — Soluções Web</b>
+  <b>Engenheiro de software</b> · <b>Head de Tecnologia na SwitchPay</b> · <b>Fundador da 42 Bits Soluções Web</b>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:yamirenato@42bitsmsw.com.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-Backend e infraestrutura do core financeiro da **SwitchPay**, plataforma de pagamentos — microsserviços em NestJS, API Gateway, filas e CI/CD na AWS. Também toco a **42 Bits**, onde lidero a parte técnica de sistemas sob medida.
+Construo, conserto e protejo os sistemas de que as empresas dependem. Na **SwitchPay**, plataforma de pagamentos, respondo pela tecnologia: arquitetura, backend em microsserviços com NestJS, infraestrutura na AWS e segurança. Pela **[42 Bits Soluções Web](https://www.42bitsmsw.com.br)**, avalio, conserto e construo sistemas para empresas que não têm equipe técnica própria.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -26,11 +26,11 @@ Backend e infraestrutura do core financeiro da **SwitchPay**, plataforma de paga
 
 ---
 
-🎧 **[Interlude Player](https://interlude-player.yamirenato.com.br/)** — faz uma música finita tocar para sempre: a faixa é fatiada e o player salta entre trechos parecidos, no tempo da batida. Cada execução soa diferente e nunca termina.
+🎧 **[Interlude Player](https://interlude-player.yamirenato.com.br/)**: faz uma música finita tocar para sempre. A faixa é fatiada e o player salta entre trechos parecidos, no tempo da batida. Cada execução soa diferente e nunca termina.
 
-🧹 **[WinButler](https://github.com/rgvieiraoficial/win-butler)** — app de mesa para Windows que junta as rotinas de manutenção (disco, caches de dev, Docker, inicialização) com simulação antes de apagar e sem telemetria.
+🧹 **[WinButler](https://github.com/rgvieiraoficial/win-butler)**: app de mesa para Windows que junta as rotinas de manutenção (disco, caches de dev, Docker, inicialização) com simulação antes de apagar e sem telemetria.
 
-🐳 **[n8n-evo-docker-starter](https://github.com/rgvieiraoficial/n8n-evo-docker-starter)** — template pronto pra subir n8n + Evolution API + Postgres + Redis em containers.
+🐳 **[n8n-evo-docker-starter](https://github.com/rgvieiraoficial/n8n-evo-docker-starter)**: template pronto pra subir n8n + Evolution API + Postgres + Redis em containers.
 
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=rgvieiraoficial&hide_border=true&theme=tokyonight" alt="Contribuições">
